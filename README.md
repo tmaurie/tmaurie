@@ -11,5 +11,7 @@
 </p>
 
 <div align="center">
-  <img width="336" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmaurie&theme=tokyonight&layout=compact&hide_border=true" />
+  <img width="336" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmaurie&theme=github_dark&layout=compact&hide_border=true" />
+  <img width="336" src="https://github-readme-streak-stats.herokuapp.com/?user=tmaurie&theme=github-dark&hide_border=true&date_format=M+j[%2C+Y]&properties=background" />
+
 </div>
