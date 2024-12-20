@@ -2,7 +2,7 @@
 
 <div align="center">
   <img width="336" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmaurie&theme=github_dark&layout=compact&hide_border=true" />
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=tmaurie&theme=github-dark&hide_border=true&date_format=M+j[%2C+Y]&properties=background" />
+  <img width="400" src="https://nirzak-streak-stats.vercel.app?user=tmaurie&theme=github-dark&hide_border=true&border_radius=&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats" />
 
 </div>
 
