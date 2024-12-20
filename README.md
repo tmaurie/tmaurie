@@ -8,7 +8,7 @@
 
 <details open>
    <summary> 💻 Code</summary>
-   <p align="center">
+   <p align="left">
       <img src="https://img.shields.io/badge/ANGULAR-%2320232a?style=for-the-badge&logo=angular&logoColor=DD0031" height="25"/>
       <img src="https://img.shields.io/badge/VUEJS-%2320232a?style=for-the-badge&logo=vue.js"  height="25"/>
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"  height="25"/>
@@ -20,9 +20,9 @@
    </p>
 </details>
 
-<details>
+<details open>
    <summary> 🛠 Tools</summary>
-   <p align="center">
+   <p align="left">
       <img src="https://img.shields.io/badge/POSTMAN-%2320232a?style=for-the-badge&logo=postman" height="25"/>
       <img src="https://img.shields.io/badge/NOTION-%2320232a?style=for-the-badge&logo=notion" height="25"/>
       <img src="https://img.shields.io/badge/JIRA-%2320232a?style=for-the-badge&logo=jira" height="25"/>
