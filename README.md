@@ -63,7 +63,7 @@
 
 ## ☁️ Cloud, DevOps & Hosting
 
-![AWS](https://img.shields.io/badge/aws-%2320232a.svg?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![AWS](https://img.shields.io/badge/aws-%2320232a.svg?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 ![Terraform](https://img.shields.io/badge/terraform-%2320232a.svg?style=for-the-badge&logo=terraform&logoColor=7B42BC)
 ![OVH](https://img.shields.io/badge/ovh-%2320232a.svg?style=for-the-badge&logo=ovh&logoColor=123F6D)
 ![Netlify](https://img.shields.io/badge/netlify-%2320232a.svg?style=for-the-badge&logo=netlify&logoColor=00C7B7)
