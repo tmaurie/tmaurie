@@ -13,10 +13,10 @@
  <a href="https://github.com/tmaurie" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-20232a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/tmaurie" target="_blank">
+  <a href="https://linkedin.com/in/thomas-maurier" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-20232a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
-  <a href="https://tmaurie.dev" target="_blank">
+  <a href="https://tmaurier.fr" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-20232a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
@@ -39,7 +39,7 @@
 ![Angular](https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=angular&logoColor=DD0031)
 ![Angular.js](https://img.shields.io/badge/angular.js-%2320232a.svg?style=for-the-badge&logo=angularjs&logoColor=E23237)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2320232a.svg?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Nuxt JS](https://img.shields.io/badge/nuxt.js-%2320232a.svg?style=for-the-badge&logo=nuxt.js&logoColor=00DC82)
+![Nuxt JS](https://img.shields.io/badge/nuxt.js-%2320232a.svg?style=for-the-badge&logo=nuxt&logoColor=00DC82)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/next.js-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=FFFFFF)
 ![Chakra UI](https://img.shields.io/badge/chakra%20ui-%2320232a.svg?style=for-the-badge&logo=chakraui&logoColor=4ED1C5)
@@ -59,7 +59,7 @@
 ![Quarkus](https://img.shields.io/badge/quarkus-%2320232a.svg?style=for-the-badge&logo=quarkus&logoColor=4695EB)
 ![Express.js](https://img.shields.io/badge/express.js-%2320232a.svg?style=for-the-badge&logo=express&logoColor=FFFFFF)
 ![NodeJS](https://img.shields.io/badge/node.js-%2320232a.svg?style=for-the-badge&logo=node.js&logoColor=339933)
-![Apache Kafka](https://img.shields.io/badge/apache%20kafka-%2320232a.svg?style=for-the-badge&logo=apachekafka&logoColor=231F20)
+![Apache Kafka](https://img.shields.io/badge/apache%20kafka-%2320232a.svg?style=for-the-badge&logo=apachekafka&logoColor=FFFFFF)
 
 ## ☁️ Cloud, DevOps & Hosting
 
