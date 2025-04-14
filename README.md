@@ -99,9 +99,8 @@
 
 ![Figma](https://img.shields.io/badge/figma-%2320232a.svg?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=tmaurie&theme=github_dark&no-frame=true&no-bg=true&margin-w=4)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=tmaurie&icon=5&color=6)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&pause=1000&color=fff&center=true&vCenter=true&width=435&lines=Simple+Code+Is+Beautiful+Code" alt="Simple Beautiful Code" />
+</p>
