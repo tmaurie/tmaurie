@@ -10,13 +10,13 @@
   <p>Passionate about building reliable systems, creating beautiful UIs, and exploring the infinite world of tech 🚀</p>
 
   <p>Always coding with ☕ + ❤️</p>
- <a href="https://github.com/tmaurie" target="_blank">
+   <a href="https://github.com/tmaurie" target="_blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/GitHub-20232a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/thomas-maurier" target="_blank">
+  <a href="https://linkedin.com/in/thomas-maurier" target="_blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/LinkedIn-20232a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
-  <a href="https://tmaurier.fr" target="_blank">
+  <a href="https://tmaurier.fr" target="_blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/Portfolio-20232a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
@@ -24,7 +24,6 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img width="336" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmaurie&theme=transparent&layout=compact&hide_border=true"  alt="most_used"/>
   <img width="400" src="https://nirzak-streak-stats.vercel.app?user=tmaurie&theme=transparent&hide_border=true&border_radius=&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats"  alt="streaks"/>
 </div>
 
