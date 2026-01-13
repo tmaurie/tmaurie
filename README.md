@@ -21,12 +21,6 @@
   </a>
 </div>
 
-# 📊 GitHub Stats:
-
-<div align="center">
-  <img width="400" src="https://nirzak-streak-stats.vercel.app?user=tmaurie&theme=transparent&hide_border=true&border_radius=&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats"  alt="streaks"/>
-</div>
-
 # 💻 Tech Stack:
 
 ## 🖥️ Frontend
@@ -97,6 +91,12 @@
 ## 🎨 Design
 
 ![Figma](https://img.shields.io/badge/figma-%2320232a.svg?style=for-the-badge&logo=figma&logoColor=F24E1E)
+
+# 📊 GitHub Stats:
+
+<div align="center">
+  <img width="400" src="https://nirzak-streak-stats.vercel.app?user=tmaurie&theme=transparent&hide_border=true&border_radius=&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats"  alt="streaks"/>
+</div>
 
 ---
 
