@@ -95,7 +95,7 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img width="400" src="https://nirzak-streak-stats.vercel.app?user=tmaurie&theme=transparent&hide_border=true&border_radius=&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats"  alt="streaks"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tmaurie&theme=github-dark" alt="GitHub Streak" /></a>
 </div>
 
 ---
